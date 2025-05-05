@@ -1,0 +1,1 @@
+Article for Scientific Seminary
