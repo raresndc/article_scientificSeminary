@@ -135,5 +135,3 @@ This structure ensures a logical, rigorous flow for presenting a cybersecurity s
 * Source code snippets
 
 ---
-
-Would you like both formatted structures bundled together in a downloadable `.md` or PDF document?
